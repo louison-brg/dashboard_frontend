@@ -9,7 +9,7 @@ class MyGraph extends StatelessWidget {
       padding: const EdgeInsets.all(8.0),
       child: Container(
         color: Colors.grey[800],
-        height: 200,
+        height: 350,
       ),
     );
   }
